@@ -1,0 +1,7 @@
+Nome: Alice
+Descrição: Exploradora do deserto
+Capacidade: 30.5
+QtdItens: 3
+Item: Ouro 10.0 500.0
+Item: Água 5.0 30.0
+Item: Comida 8.0 80.0
